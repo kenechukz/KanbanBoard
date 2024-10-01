@@ -1,0 +1,11 @@
+Athlone 10C
+Galway 9C
+Dublin 11C
+Cork 9C
+Limerick 10C
+Waterford 10C
+Kilkenny 10C
+Sligo 8C
+Donegal 7C
+Tralee 11C
+
